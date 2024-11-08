@@ -1,0 +1,11 @@
+.TodoMainDiv{
+
+   display: flex;
+
+    flex-direction: column;
+}
+.btn {
+    background-color: light-green;
+    padding: 12px 16px;
+    font-size: 16px;
+}
